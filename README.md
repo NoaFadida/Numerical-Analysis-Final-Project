@@ -1,1 +1,1 @@
-# numerical-analysis-final-project
+# Numerical-Analysis-Final-Project
